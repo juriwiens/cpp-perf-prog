@@ -30,3 +30,6 @@
 tmp
 bin
 play
+
+# Visual Studio code
+.vscode
